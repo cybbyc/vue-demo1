@@ -28,3 +28,15 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+其他信息：
+	这个Vue demo是通过vue-cli脚手架中的webpack模板搭建的
+	
+	克隆到本地后在根目录运行
+		npm install
+	安装依赖即可用于开发
+
+
+
+
